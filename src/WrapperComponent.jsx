@@ -9,7 +9,7 @@ const WrapperComponent = () => {
       <GridItem
         as={"aside"}
         colSpan={{ base: 6, lg: 2, xl: 1 }}
-        bg={"brand.600"}
+        bg={"purple.400"}
         minHeight={{ lg: "100vh" }}
         p={"30px"}
       >
